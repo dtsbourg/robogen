@@ -39,6 +39,9 @@ You can follow [this documentation](http://robogen.org/docs/evolution-configurat
 3. Create a new folder, enter it, and upload the files you downloaded from this repository (`git clone https://github.com/dtsbourg/snek`)
 4. Click on *Start a new simulation*.
 5. Configure the simulation settings as shown below :
-[![Simulation configuration](simulation_config.png)]
-Note that you can chose to enable logs to get the output log files and neural network file.
+
+![Simulation configuration](simulation_config.png)
+
+*Note that you can chose to enable logs to get the output log files and neural network file.*
+
 6. Click run !
