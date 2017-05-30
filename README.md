@@ -45,3 +45,21 @@ You can follow [this documentation](http://robogen.org/docs/evolution-configurat
 *Note that you can chose to enable logs to get the output log files and neural network file.*
 
 6. Click run !
+
+You should see the arena and our robot, on a platform in space :)
+
+![Arena view 1](env1.png)
+![Arena view 2](env2.png)
+![Snek](snek.png)
+
+## Building your own snek
+
+You can follow [these instructions](http://robogen.org/docs/building-your-robot/#3D-print) to build your own snek ! All the parts are 3D printed (there are [pre-printed versions](https://www.shapeways.com/shops/robogen), but if you have acess to a 3D printer, the stl files are [available here](https://github.com/lis-epfl/robogen/tree/master/printing-3D)) and use standard motors and sensors.
+
+## Contact
+
+Did you build your own snek ? Did you make snek better ? Do you have questions about this project ? [Open an issue](https://github.com/dtsbourg/snek/issues/new) to contact us !
+
+Do you want to help make Robogen better ? You can contact the LIS-lab on the [Robogen repo](https://github.com/lis-epfl/robogen/)
+
+> This project was built by [Jean Gschwind](https://github.com/jGsch), [Sebastian Savidan](https://github.com/SebastianSavi) and [Dylan Bourgeois](https://github.com/dtsbourg) for the Evolutionary Robotics class given at EPFL in Switzerland (Spring 2017 session).
