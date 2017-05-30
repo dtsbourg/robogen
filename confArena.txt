@@ -1,0 +1,15 @@
+scenario=custom_scenario.js
+timeStep=0.005
+actuationFrequency=25
+obstaclesConfigFile=simpleArena.txt
+lightSourcesConfigFile=singleLightSource.txt
+simulationTime=60
+terrainType=flat
+terrainLength=5
+terrainWidth=5
+terrainFriction=0.8
+sensorNoiseLevel=0.02
+motorNoiseLevel=0.02
+capAcceleration=false
+#maxDirectionShiftsPerSecond=16
+startPositionConfigFile=startPos.txt
